@@ -42,6 +42,15 @@ We hope you stick around for the entire course, as we dive deeper into these con
 
 ### Cloud Computing
 
+Cloud Computing -  Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing. 
+
+Undifferntiated IT Taks of heavy lifting - database installation, etc doesn't differentiate you from your competitors
+
+Three Cloud computing deployment models
+- Cloud based - run all parts of app on cloud, migrate exisgint apps, desing and build new apps
+- On-premisis deployment - also know as private cloud
+- Hybrid deployment 
+ 
 #### AWS Transcript:  
 
 Before we get deeper into the pieces and parts of AWS, let's zoom out and get a good working definition of cloud. Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing. Let's break this down. On-demand delivery indicates that AWS has the resources you need, when you need them. You don't need to tell us in advance that you're going to need them. Suddenly you find yourself needing 300 virtual servers. Well, just a few clicks and launch them. Or you need 2000 terabytes of storage. You don't have to tell us in advance, just start using the storage you need, when you need it. Don't need them anymore, just as quickly, you can return them and stop paying immediately. That kind of flexibility is just not possible when you're managing your own data centers.
