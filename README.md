@@ -1,6 +1,6 @@
 # Module 1: Introduction to Amazon Web Services
 
-[AWS Cloud Practitioner Home]()
+[AWS Cloud Practitioner Home](https://github.com/pslucas0212/AWS-Cloud-Practioner)
 
 Amazon Elastic Compute Cloud (EC2) - An EC2 is a virtual machine
 
